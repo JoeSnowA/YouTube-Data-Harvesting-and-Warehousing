@@ -1,6 +1,7 @@
+
 PROBLEM STATEMENT:
-		 We have to create an application using stream lit, so that any user can access our application and fetch data’s from any YouTube channels. 
-	         Extracting data’s from YouTube API and storing it into MongoDB and then transforming into MYSQL to get data’s of any channels.   
+	We have to create an application using stream lit, so that any user can access our application and fetch data’s from any YouTube channels. 
+	Extracting data’s from YouTube API and storing it into MongoDB and then transforming into MYSQL to get data’s of any channels.   
 
 OVERVIEW:
 	
